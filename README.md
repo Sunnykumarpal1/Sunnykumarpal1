@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sunny Kumar Pal i am currently pursuing an B.E degree.
+- 👋 Hi, I’m Sunny Kumar Pal .I am currently pursuing an B.E degree.
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning DSA, android development 
 - 📫 How to reach me  e-mail: ak2932534@gmail.com,8217668298
