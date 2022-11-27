@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@Sunnykumarpal08" target="blank"><img src="https://img.shields.io/twitter/follow/@Sunnykumarpal08?logo=twitter&style=for-the-badge" alt="@Sunnykumarpal08" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Android development**
+- 🌱 I’m currently learning **DSA **
 
 - 💬 Ask me about **DSA,c++**
 
